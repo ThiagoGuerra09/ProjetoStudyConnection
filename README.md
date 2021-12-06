@@ -23,4 +23,4 @@ Veja também o PDF da apresentação final no arquivo acima.
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </div>
 
-
+Segue o link do front-end (versão beta, a versão completa está disponivel para download aqui no repostório) : <a href="https://thiagoguerra09.github.io/Study_Connection/Study_Connection/index.html">aqui</a>
