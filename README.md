@@ -1,11 +1,9 @@
 # ProjetoStudyConnection
-Projeto em grupo feito no 2º periodo.
 
-#Desenvolvido por Thiago Guerra-01/12/2021
 
 Atenção: baixe a pasta img e cole ela no seguinte endereço "ProjetoStudyConnection\studyconnection\src\main\resources".
 
-Projeto desenvolvido em grupo com os alunos Joel Mata, Paulo Sendas e Thiago Utsch.
+Projeto desenvolvido em grupo com os alunos Joel Mata,Thiago Guerra e Thiago Utsch.
 
 Projeto que visava a construção de uma ideia em algo concreto, e com isso utilizamos diversas ferramentas e tecnologias, como por exemplo
 linguagem Java, HTML, CSS, JavaScript, Banco de Dados(PostgreSQL), Nuvem(Microsoft Azure que armazenou nosso banco de dados).
